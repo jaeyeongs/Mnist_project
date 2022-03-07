@@ -1,3 +1,5 @@
-## Deep Learning 기초
+## Mnist로 Deep Learning 기초 배우기
 
-### Mninst Project
+### (1) tensorflow로 mnist
+
+### (2) pytorch로 mnist
